@@ -6,7 +6,8 @@ Analyzing sales and shipping data across 5 regions (countries) within a 4 month 
 A Power BI project using data from a supply chain company (kaggle)
 
 Data:
-- I got the data from Kaggle. Since it was already cleaned, I used Gemini (AI) to make it alittle messy. I made some transformations using power query to clean it up in Power BI. 
+- I got the data from Kaggle. Since it was already cleaned, I used Gemini (AI) to make it alittle messy. I made some transformations using power query to clean it up in Power BI.
+- The data didn't include a date column, so I used AI to simulate dates for the 1st quarter of 2024 (Jan 2024 - April 2024)
 
 ------------------------------------------
 
@@ -27,9 +28,13 @@ Relationship Model:
 
 -----------------------
 Business Problem:
-???
+TBA
+
+---------------------
 
 
+Data sources:
+Supply chain spreadsheet | CSV | 101 rows
 
 What I built:
 
